@@ -1,0 +1,23 @@
+;
+;  Database file vobahuy.com.dns for Default zone scope in zone vobahuy.com.
+;      Zone version:  6
+;
+
+@                       IN  SOA win-690vhoe1iva. hostmaster. (
+                        		6            ; serial number
+                        		900          ; refresh
+                        		600          ; retry
+                        		86400        ; expire
+                        		3600       ) ; default TTL
+
+;
+;  Zone NS records
+;
+
+@                       NS	win-690vhoe1iva.
+
+;
+;  Zone records
+;
+
+test                    A	192.168.229.40
