@@ -4,3 +4,4 @@
 # DNS_Server 127.0.0.1
 # FTP để share thư mục có thể xem, xóa và tải xuống
 # DHCP cấp phát địa chỉ IP cùng mạng
+# NTFS phân quyền 
